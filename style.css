@@ -25,6 +25,7 @@ body{
     font-family: var(--basic-font);
     text-align: center;
     font-size: 3rem;
+    margin: auto;
 }
 .input{
     display: flex;
@@ -95,6 +96,7 @@ footer h1{
     font-family: var(--basic-font);
     padding-top: 0;
     padding-bottom: 0;
+    font-size: 1.5rem;
 }
 footer p{
     font-family: var(--basic-font);
