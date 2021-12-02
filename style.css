@@ -27,10 +27,13 @@ body{
     font-size: 3rem;
     margin: auto;
 }
+.sub-main{
+    margin: auto;
+}
 .input{
     display: flex;
     justify-content: center;
-    margin-top: 10rem;
+    margin-top: 8rem;
 }
 textarea{
     box-sizing: border-box;
@@ -101,7 +104,7 @@ footer h1{
 footer p{
     font-family: var(--basic-font);
     box-sizing: border-box;
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
     margin: 0 auto;
     width: 50rem;
